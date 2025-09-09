@@ -54,7 +54,7 @@ The methodology of the **Log Out** project follows a structured approach to ensu
    - Providing actionable recommendations to optimize screen time and enhance productivity.
 ---
 
-##Key Performance Indicators (KPIs)
+## Key Performance Indicators (KPIs)
 
 ---
 
@@ -67,6 +67,7 @@ The methodology of the **Log Out** project follows a structured approach to ensu
 | 4    | Visualization in Power BI | Interactive dashboards & plots |
 | 5    | Insights & Recommendations | Final report with actionable insights |
 | 6    | Project Submission | Complete project with README, datasets, and dashboards |
+
 
 ---
 
