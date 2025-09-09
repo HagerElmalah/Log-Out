@@ -30,13 +30,28 @@ The dataset used in this project includes information on social media usage, pro
 
 ---
 
-## Project Workflow
-1. **Data Collection:** Obtaining the dataset from Kaggle.  
-2. **Data Cleaning & Preprocessing:** Handling missing values, filtering, and formatting data.  
-3. **Exploratory Data Analysis (EDA):** Understanding patterns, distributions, and correlations.  
-4. **Visualization:** Creating charts, graphs, and heatmaps to highlight key insights.  
-5. **Insights & Recommendations:** Summarizing findings and suggesting practical improvements.
+## Methodology
+The methodology of the **Log Out** project follows a structured approach to ensure comprehensive analysis:
 
+1. **Data Collection:**  
+   - Obtaining the dataset from Kaggle or other sources.  
+   - Ensuring the dataset includes all relevant fields such as time spent on apps, addiction levels, and productivity metrics.
+
+2. **Data Cleaning & Preprocessing:**  
+   - Handling missing or inconsistent data using Python and SQL.  
+   - Filtering and formatting data for accurate analysis.
+
+3. **Exploratory Data Analysis (EDA):**  
+   - Understanding distributions, patterns, and correlations between variables.  
+   - Identifying trends in social media usage and its impact on productivity.
+
+4. **Visualization:**  
+   - Creating interactive dashboards and charts in Power BI.  
+   - Plotting graphs and statistical visualizations using Python libraries like matplotlib and seaborn.
+
+5. **Insights & Recommendations:**  
+   - Summarizing key findings from the analysis.  
+   - Providing actionable recommendations to optimize screen time and enhance productivity.
 ---
 
 ## Outcome
