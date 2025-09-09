@@ -8,17 +8,17 @@ This project demonstrates end-to-end data analysis, including data collection, c
 
 ---
 
-## Dataset Overview
-The dataset used in this project includes information on social media usage, productivity metrics, and behavioral data.  
-**Source:** [Insert dataset link if downloaded from Kaggle or other source]
-
----
-
 ## Objectives
 - Analyze the relationship between social media usage and productivity.  
 - Identify patterns in app usage and time spent across different platforms.  
 - Visualize insights to highlight key trends.  
 - Provide actionable recommendations for better time and productivity management.
+
+---
+
+## Dataset Overview
+The dataset used in this project includes information on social media usage, productivity metrics, and behavioral data.  
+**Source:** [Insert dataset link if downloaded from Kaggle or other source]
 
 ---
 
