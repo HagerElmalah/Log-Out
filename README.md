@@ -54,6 +54,10 @@ The methodology of the **Log Out** project follows a structured approach to ensu
    - Providing actionable recommendations to optimize screen time and enhance productivity.
 ---
 
+##Key Performance Indicators (KPIs)
+
+---
+
 ## Outcome
 The project provides clear insights into how social media usage affects productivity and offers strategies to optimize screen time and personal efficiency.
 
