@@ -1,6 +1,6 @@
 # Log-Out: A Data Analysis Project on Social Media and Productivity
 
-## Project Description
+##  Executive Summary
 **Log Out** is a data analysis project that explores the impact of social media usage on productivity.  
 The project aims to uncover patterns, trends, and insights from user behavior, such as time spent on different platforms, addiction levels, and productivity loss.
 
