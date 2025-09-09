@@ -76,6 +76,14 @@ The project provides clear insights into how social media usage affects producti
 
 ---
 
+## Setup & Execution Guide
+Follow these steps to set up and run the project:
+
+1. **Clone the repository:**  
+```bash
+git clone https://github.com/YourUsername/Log-Out.git
+cd Log-Out
+
 ## Author
 **Hager Elmalah** – Full Project Data Analyst  
 Responsible for all phases: data collection, cleaning, analysis, visualization, and reporting.
