@@ -88,3 +88,9 @@ cd Log-Out
 ## Author
 **Hager Elmalah** – Full Project Data Analyst  
 Responsible for all phases: data collection, cleaning, analysis, visualization, and reporting.
+
+**Contact Information:**  
+- Email: hagerfaysal44@gmail.com  
+- LinkedIn: [linkedin.com/in/hagerelmalah](linkedin.com/in/hager-elmalah-059651304)  
+- GitHub: [github.com/HagerElmalah](https://github.com/HagerElmalah)
+
