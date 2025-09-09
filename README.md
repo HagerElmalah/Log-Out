@@ -58,6 +58,18 @@ The methodology of the **Log Out** project follows a structured approach to ensu
 
 ---
 
+## Project Timeline & Milestones
+| Week | Task / Milestone | Deliverable |
+|------|-----------------|------------|
+| 1    | Data Collection & Understanding Dataset | Raw dataset and initial exploration notes |
+| 2    | Data Cleaning & Preprocessing | Cleaned dataset ready for analysis |
+| 3    | Exploratory Data Analysis (EDA) | Charts, graphs, correlation analysis |
+| 4    | Visualization in Power BI | Interactive dashboards & plots |
+| 5    | Insights & Recommendations | Final report with actionable insights |
+| 6    | Project Submission | Complete project with README, datasets, and dashboards |
+
+---
+
 ## Outcome
 The project provides clear insights into how social media usage affects productivity and offers strategies to optimize screen time and personal efficiency.
 
