@@ -81,9 +81,9 @@ Follow these steps to set up and run the project:
 
 1. **Clone the repository:**  
 ```bash
-git clone https://github.com/YourUsername/Log-Out.git
-cd Log-Out
+git clone https://github.com/HagerElmalah/Log-Out.git
 
+---
 ## Author
 **Hager Elmalah** – Full Project Data Analyst  
 Responsible for all phases: data collection, cleaning, analysis, visualization, and reporting.
