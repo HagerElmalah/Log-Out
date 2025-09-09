@@ -1,4 +1,5 @@
-## **Log-Out**: A Data Analysis Project on Social Media and Productivity
+## **Log-Out**:
+A Data Analysis Project on Social Media and Productivity
 
 
 ##  Executive Summary
