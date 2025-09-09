@@ -85,6 +85,15 @@ git clone https://github.com/HagerElmalah/Log-Out.git
 cd Log-Out
 ```
 ---
+
+## Future Enhancements 
+- Expand dataset with more users or age groups.  
+- Include additional productivity metrics (e.g., sleep, work output).  
+- Implement predictive modeling for productivity forecasting.  
+- Develop a web-based interactive dashboard.  
+- Integrate user feedback surveys for more nuanced insights.
+
+---
 ## Author
 **Hager Elmalah** – Full Project Data Analyst  
 Responsible for all phases: data collection, cleaning, analysis, visualization, and reporting.
