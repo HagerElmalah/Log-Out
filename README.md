@@ -25,7 +25,7 @@ This project demonstrates end-to-end data analysis, including data collection, c
 Analyze how social media usage affects students’ academic performance, study habits, and overall productivity.
 
 **Dataset:**  
-- 500 students  
+- 3000 students  
 - Attributes:  
   - Gender  
   - Age  
