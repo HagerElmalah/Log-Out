@@ -115,6 +115,14 @@ cd Log-Out
 - Integrate user feedback surveys for more nuanced insights.
 
 ---
+## 📑 Presentation
+
+You can view the full project presentation [here](https://www.canva.com/design/DAGzA7ArMCw/i7v-RtGt6H0WN8MdQEmgRw/edit?utm_content=DAGzA7ArMCw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
+
+---
+
+
+
 ## Author
 **Hager Elmalah** – Full Project Data Analyst  
 Responsible for all phases: data collection, cleaning, analysis, visualization, and reporting.
