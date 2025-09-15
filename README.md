@@ -19,8 +19,20 @@ This project demonstrates end-to-end data analysis, including data collection, c
 ---
 
 ## Dataset Overview
-The dataset used in this project includes information on social media usage, productivity metrics, and behavioral data.  
-**Source:** 
+**Title:** Social Media Impact on Student Productivity
+
+**Goal:**  
+Analyze how social media usage affects students’ academic performance, study habits, and overall productivity.
+
+**Dataset:**  
+- 500 students  
+- Attributes:  
+  - Gender  
+  - Age  
+  - Time on Social Media  
+  - Purpose of Use  
+  - Sleep Hours  
+  - Academic Performance
 
 ---
 
@@ -57,6 +69,13 @@ The methodology of the **Log Out** project follows a structured approach to ensu
 ---
 
 ## Key Performance Indicators (KPIs)
+
+- **Average Time on Social Media:** Measures the overall social media usage among students.  
+- **Average Academic Performance Score:** Evaluates the general productivity level.  
+- **Correlation between Social Media Usage and Academic Performance:** Shows the strength and direction of the relationship.  
+- **Average Sleep Hours:** Indicates the impact of social media on students' daily routines and well-being.  
+- **Usage Purpose Distribution:** Tracks how students use social media (education, entertainment, communication, etc.).  
+- **Engagement by Age Group and Gender:** Highlights demographic patterns in social media usage.
 
 ---
 
